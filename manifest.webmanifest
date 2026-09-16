@@ -1,0 +1,15 @@
+{
+  "name": "Manulife Indexed Wealth Projection Calculator with Payouts",
+  "short_name": "MIW Payouts",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F4F6F5",
+  "theme_color": "#1F4D3A",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
